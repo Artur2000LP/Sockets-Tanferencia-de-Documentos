@@ -14,5 +14,5 @@ por ultimo desactivar el Firewall de Windows Defender
 
 ![image](https://github.com/user-attachments/assets/935b70d2-383a-4669-8b8d-f811fb93d9cb)
 
-###nota
+### Nota
 el proyecto del cliente se comparte a las paquinas y el revidor solo se ejecuta en una maquina que se comporta cono servidor y tambien puede comportarse como cliente 
